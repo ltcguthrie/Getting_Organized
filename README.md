@@ -1,1 +1,17 @@
-# Getting_Organized
+## Getting_Organized
+
+### Resources
+
+
+### Jupyter notebooks
+
+
+
+### Key Packages
+
+
+
+### Custon Scripts
+
+
+
