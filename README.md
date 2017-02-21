@@ -1,8 +1,9 @@
 ## Getting_Organized
 
 ### Resources
-Software carpentry (Python and R Resources)
-swirl (R resources)
+* [Software carpentry] (https://software-carpentry.org/lessons/)
+* [swirl-R] (http://swirlstats.com/students.html)
+* [GitHub](http://github.com)
 
 ### Jupyter notebooks
 * https://jupyter.readthedocs.io/en/latest/content-quickstart.html
@@ -10,13 +11,13 @@ swirl (R resources)
 
 ### Key Packages
 **Searching**
-1.usearch
-2.blast
-3.diamond
+1. usearch
+2. blast
+3. diamond
 
 **Tree building**
-phyml
-itol
+1. phyml
+2. itol
 
 **Statistical Analysis**
 1. vegan
