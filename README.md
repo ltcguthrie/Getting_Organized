@@ -13,27 +13,31 @@
 
 **Searching**
 
-1. usearch
-2. blast
-3. diamond
+* usearch
+* blast
+* diamond
+
+**Alignment**
+
+* [MAFFT](http://mafft.cbrc.jp/alignment/software/)
 
 **Tree building**
 
-1. phyml
-2. itol
+* [phyml] (http://www.atgc-montpellier.fr/phyml/)
+* [itol] (http://itol.embl.de)
 
 **Statistical Analysis**
 
-1. vegan
-2. ape
-3. metagenomeseq
-4. stamp
+* vegan 
+* ape
+* metagenomeseq
+* [stamp] (http://kiwi.cs.dal.ca/Software/STAMP)
 
 **Visualization**
 
-1. ggplot2
-2. seaborn
-3. matplotlib
+* ggplot2
+* seaborn
+* matplotlib
 
 
 
