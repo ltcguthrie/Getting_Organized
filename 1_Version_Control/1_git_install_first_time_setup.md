@@ -36,4 +36,11 @@ You can check your all your settings using the `git config --list` command or a 
 ## Other useful commands
 
 `git help <git command verb>`
+
 `man git-<git command verb>`
+
+
+### Sharing your work with others
+
+You can use a hosting service like Github to store your Git repositories and share them pubically. You can sign up for an account [here](https://github.com/).
+We will use github going forward but there are other options like [BitBucket](https://bitbucket.org/), [Codebase](https://www.codebasehq.com/) or [GitLab](https://about.gitlab.com/). 
